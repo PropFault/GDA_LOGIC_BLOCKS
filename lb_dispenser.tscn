@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://GDA_VENDING_MACHINES/GDA_LOGIC_BLOCKS/scripts/dispenser.gd" type="Script" id=1]
+
+[node name="lb_dispenser" type="Node"]
+script = ExtResource( 1 )
